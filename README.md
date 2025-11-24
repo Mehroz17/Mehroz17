@@ -36,6 +36,7 @@
 ✨Its Muhammad Mehroz from Pakistan     <img src ='https://github.com/Mehroz786/Mehroz786/assets/72649379/81ac537f-0552-44b8-b175-bcfec18f2849' width = '20'/>
 
 - 👨‍💻 Software Engineer | AI Engineer
+- 🏫 Learning About Agentic AI and Gen-AI
 - 🧠 Skilled in Deep Learning, Computer Vision (CV), Web Scraping, and Web Automation
 - 🔭 Providing web-scrapping services on Fiverr
 - 🔍 Passionate about exploring the fields of AI and CV
